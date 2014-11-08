@@ -1,6 +1,6 @@
 {
   "name": "language-minmax",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "minMAX language support in Atom",
   "repository": "https://github.com/stenverbois/language-minmax",
   "license": "MIT",
