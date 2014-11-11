@@ -1,10 +1,10 @@
 '.source.minmax':
-  'For (param)':
-    'prefix': 'for'
-    'body': '${1:i} [${2:a}..${3:b}] {\n\t${0:# code #}\n}'
-  'For':
+  'For loop':
     'prefix': 'for'
     'body': '[${1:a}..${2:b}] {\n\t${0:# code #}\n}'
+  'For loop (param)':
+    'prefix': 'for'
+    'body': '${1:i} [${2:a}..${3:b}] {\n\t${0:# code #}\n}'
   'Out':
     'prefix': 'out'
     'body': '< ${1:"${0}"}'
